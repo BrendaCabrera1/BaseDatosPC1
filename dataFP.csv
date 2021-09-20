@@ -1,0 +1,200 @@
+Country,Rank,Score,Status
+ Norway,1,8,Free
+ Netherlands,2,11,Free
+ Sweden,3,11,Free
+ Belgium,4,12,Free
+ Denmark,5,12,Free
+ Finland,6,12,Free
+  Switzerland,7,13,Free
+ Luxembourg,8,14,Free
+ Andorra,9,15,Free
+ Iceland,10,15,Free
+ Liechtenstein,11,15,Free
+ Palau,12,15,Free
+ Costa Rica,13,16,Free
+ Estonia,14,16,Free
+ Monaco,15,16,Free
+ Marshall Islands,16,17,Free
+ Portugal,17,17,Free
+ Saint Lucia,18,17,Free
+ San Marino,19,17,Free
+ Canada,20,18,Free
+ Ireland,21,18,Free
+ Barbados,22,19,Free
+ Jamaica,23,19,Free
+ New Zealand,24,19,Free
+ Germany,25,20,Free
+ Czech Republic,26,21,Free
+ Lithuania,27,21,Free
+ Micronesia,28,21,Free
+ Saint Kitts and Nevis,29,21,Free
+ Saint Vincent and the Grenadines,30,21,Free
+ Australia,31,22,Free
+ Austria,32,22,Free
+ Bahamas,33,23,Free
+ Cyprus,34,23,Free
+ Malta,35,23,Free
+ Slovenia,36,23,Free
+ United States,37,23,Free
+ Uruguay,38,24,Free
+ Dominica,39,25,Free
+ Taiwan,40,25,Free
+ Trinidad and Tobago,41,25,Free
+ United Kingdom,42,25,Free
+ Vanuatu,43,25,Free
+ France,44,26,Free
+ Grenada,45,26,Free
+ Latvia,46,26,Free
+ Slovakia,47,26,Free
+ Belize,48,27,Free
+ Cape Verde,49,27,Free
+ Japan,50,27,Free
+ Solomon Islands,51,27,Free
+ Tuvalu,52,27,Free
+ São Tomé and Príncipe,53,28,Free
+ Spain,53,28,Free
+ Suriname,53,28,Free
+ Chile,56,29,Free
+ Mauritius,56,29,Free
+ Papua New Guinea,56,29,Free
+ Samoa,56,29,Free
+ Kiribati,60,30,Free
+ Tonga,60,30,Free
+ Italy,62,31,Partly Free
+ Namibia,63,32,Partly Free
+ Ghana,64,33,Partly Free
+ Israel,64,33,Partly Free
+ Antigua and Barbuda,66,34,Partly Free
+ Poland,66,34,Partly Free
+ South Korea,66,34,Partly Free
+ Timor-Leste,69,35,Partly Free
+ Benin,70,37,Partly Free
+ Mali,70,37,Partly Free
+ Mongolia,70,37,Partly Free
+ Guyana,73,38,Partly Free
+ Romania,73,38,Partly Free
+ South Africa,73,38,Partly Free
+ Burkina Faso,76,41,Partly Free
+ Croatia,76,41,Partly Free
+ El Salvador,76,41,Partly Free
+ Panama,76,41,Partly Free
+ Bulgaria,80,42,Partly Free
+ Dominican Republic,80,42,Partly Free
+ Hong Kong,80,42,Partly Free
+ India,83,43,Partly Free
+ Fiji,84,44,Partly Free
+ Greece,84,44,Partly Free
+ Hungary,84,44,Partly Free
+ Montenegro,84,44,Partly Free
+ Philippines,84,44,Partly Free
+ Botswana,89,45,Partly Free
+ Malawi,89,45,Partly Free
+ Peru,89,45,Partly Free
+ Argentina,92,46,Partly Free
+ Nauru,92,46,Partly Free
+ Brazil,94,47,Partly Free
+ Senegal,94,47,Partly Free
+ Kosovo,96,48,Partly Free
+ Mozambique,96,48,Partly Free
+ Comoros,98,49,Partly Free
+ Indonesia,98,49,Partly Free
+ Serbia,98,49,Partly Free
+ Seychelles,98,49,Partly Free
+ Georgia,102,50,Partly Free
+ Albania,103,51,Partly Free
+ Bosnia and Herzegovina,103,51,Partly Free
+ Côte d'Ivoire,103,51,Partly Free
+ Lesotho,103,51,Partly Free
+ Nigeria,103,51,Partly Free
+ Haiti,108,52,Partly Free
+   Nepal,108,52,Partly Free
+ Niger,108,52,Partly Free
+ Bolivia,111,53,Partly Free
+ Mauritania,111,53,Partly Free
+ Somaliland,111,53,Partly Free
+ Ukraine,111,53,Partly Free
+ Sierra Leone,115,54,Partly Free
+ Tunisia,115,54,Partly Free
+ Nicaragua,117,55,Partly Free
+ Lebanon,118,56,Partly Free
+ Moldova,118,56,Partly Free
+ Colombia,120,57,Partly Free
+ Togo,120,57,Partly Free
+ Bhutan,122,58,Partly Free
+ Guatemala,122,58,Partly Free
+ Kenya,122,58,Partly Free
+ Madagascar,122,58,Partly Free
+ Tanzania,122,58,Partly Free
+ Uganda,122,58,Partly Free
+ Guinea-Bissau,128,59,Partly Free
+ Paraguay,128,59,Partly Free
+ Afghanistan,130,60,Partly Free
+ Congo (Brazzaville),130,60,Partly Free
+ Kuwait,130,60,Partly Free
+ Liberia,130,60,Partly Free
+ Sri Lanka,134,61,Not Free
+ Bangladesh,135,62,Not Free
+ Maldives,135,62,Not Free
+ Armenia,137,63,Not Free
+ Zambia,137,63,Not Free
+ Macedonia,139,64,Not Free
+ Mexico,139,64,Not Free
+ Algeria,141,65,Not Free
+ Pakistan,141,65,Not Free
+ Cameroon,143,66,Not Free
+ Ecuador,143,66,Not Free
+ Guinea,143,66,Not Free
+ Honduras,143,66,Not Free
+ Morocco,143,66,Not Free
+ Kyrgyzstan,148,67,Not Free
+ Singapore,148,67,Not Free
+ Jordan,150,68,Not Free
+ Malaysia,151,69,Not Free
+ Cambodia,152,70,Not Free
+ Qatar,152,70,Not Free
+ South Sudan,152,70,Not Free
+ Central African Republic,155,71,Not Free
+ Gabon,155,71,Not Free
+ Iraq,155,71,Not Free
+ Oman,155,71,Not Free
+ Angola,159,73,Not Free
+ Myanmar,159,73,Not Free
+ Chad,161,74,Not Free
+ Zimbabwe,161,74,Not Free
+ Brunei,163,76,Not Free
+ Turkey,163,76,Not Free
+ Djibouti,165,77,Not Free
+ Egypt,165,77,Not Free
+ Libya,165,77,Not Free
+ Thailand,165,77,Not Free
+ United Arab Emirates,169,78,Not Free
+ Rwanda,170,79,Not Free
+ Somalia,170,79,Not Free
+ Venezuela,172,81,Not Free
+ Congo (Kinshasa),173,82,Not Free
+ Belarus,174,83,Not Free
+ Russia,174,83,Not Free
+ Swaziland,174,83,Not Free
+ Vietnam,177,84,Not Free
+ Palestine,177,84,Not Free
+ Burundi,179,85,Not Free
+ Kazakhstan,179,85,Not Free
+ Laos,179,85,Not Free
+ Yemen,179,85,Not Free
+ Ethiopia,183,86,Not Free
+ Saudi Arabia,183,86,Not Free
+ Sudan,183,86,Not Free
+ Bahrain,186,87,Not Free
+ China,186,87,Not Free
+ Tajikistan,186,87,Not Free
+ The Gambia,186,87,Not Free
+ Azerbaijan,190,90,Not Free
+ Iran,190,90,Not Free
+ Syria,190,90,Not Free
+ Cuba,193,91,Not Free
+ Equatorial Guinea,193,91,Not Free
+ Crimea,195,94,Not Free
+ Eritrea,195,94,Not Free
+ Uzbekistan,197,95,Not Free
+ North Korea,198,98,Not Free
+ Turkmenistan,198,98,Not Free
